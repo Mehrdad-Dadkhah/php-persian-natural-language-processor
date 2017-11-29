@@ -152,8 +152,6 @@ allNLP function call all other functions and return all results.
 
 ## Acknowledgments
 
-* Thanks to [emgag](https://github.com/emgag) I use his package and follow [video-thumbnail-sprite](https://github.com/emgag/video-thumbnail-sprite) structure.
-
 Uses:
 
 * [sobhe/hazm](https://github.com/sobhe/hazm)
