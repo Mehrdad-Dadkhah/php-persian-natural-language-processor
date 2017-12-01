@@ -11,7 +11,7 @@ class PersianLanguageProcessor
 {
     public function __call($method, $args)
     {
-        $command = 'python ./processor.py ' . $method . ' ' . escapeshellarg(json_encode($args[0]));
+        $command = 'python ' . __FILE__ . '/processor.py' . $method . ' ' . escapeshellarg(json_encode($args[0]));
 
         $process = new Process($command);
         $process->run();
