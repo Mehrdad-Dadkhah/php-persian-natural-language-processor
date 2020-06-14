@@ -5,8 +5,8 @@
     "homepage": "https://github.com/Mehrdad-Dadkhah/php-persian-natural-language-processor",
     "type": "library",
     "require": {
-	    "php": ">=5.5",
-        "symfony/process": "~3.3"
+	    "php": ">=7.2",
+        "symfony/process": "^5.0"
     },
     "require-dev": {
     },
