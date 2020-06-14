@@ -159,4 +159,4 @@ Uses:
 
 ## License
 
-php-persian-natural-language-processor is licensed under the [GPLv3 License](http://opensource.org/licenses/GPL).
+php-persian-natural-language-processor is licensed under the [GPLv3 License](https://opensource.org/licenses/GPL-3.0).
