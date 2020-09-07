@@ -6,7 +6,7 @@
     "type": "library",
     "require": {
 	"php": ">=7.2",
-        "symfony/process": "^3.0"
+        "symfony/process": ">=3.0"
     },
     "require-dev": {
     },
